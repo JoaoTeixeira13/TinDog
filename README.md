@@ -24,4 +24,4 @@ This is a single-page application website made with HTML and CSS that lays out a
 
 **_Page Layout_**
 
-<img src="drumkit.gif">
+<img src="tindog.gif">
